@@ -1,0 +1,16 @@
+{
+  "name": "convert_jwk_to_pem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "converter.js",
+  "dependencies": {
+    "jsonwebtoken": "^8.1.1",
+    "jwk-to-pem": "^1.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
